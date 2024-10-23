@@ -3,12 +3,6 @@
         "zpid":58770091,
         "city":"Litchfield Park",
         "state":"AZ",
-        "address":{
-            "city":"Litchfield Park",
-            "state":"AZ",
-            "streetAddress":"12618 W Pasadena Ave",
-            "zipcode":"85340"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":373300,
@@ -22,12 +16,6 @@
         "zpid":157228213,
         "city":"Chico",
         "state":"CA",
-        "address":{
-            "city":"Chico",
-            "state":"CA",
-            "streetAddress":"3157 Hightower Lndg",
-            "zipcode":"95973"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":610000,
@@ -41,12 +29,6 @@
         "zpid":17439071,
         "city":"Hesperia",
         "state":"CA",
-        "address":{
-            "city":"Hesperia",
-            "state":"CA",
-            "streetAddress":"6867 Wilson Way",
-            "zipcode":"92345"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":486900,
@@ -60,12 +42,6 @@
         "zpid":17948829,
         "city":"Lake Elsinore",
         "state":"CA",
-        "address":{
-            "city":"Lake Elsinore",
-            "state":"CA",
-            "streetAddress":"33218 Zellar St",
-            "zipcode":"92530"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":510000,
@@ -79,12 +55,6 @@
         "zpid":2056067539,
         "city":"Nuevo",
         "state":"CA",
-        "address":{
-            "city":"Nuevo",
-            "state":"CA",
-            "streetAddress":"28341 Golden Spring Dr",
-            "zipcode":"92567"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":500587,
@@ -98,12 +68,6 @@
         "zpid":26017625,
         "city":"Sacramento",
         "state":"CA",
-        "address":{
-            "city":"Sacramento",
-            "state":"CA",
-            "streetAddress":"200 Cafaro Cir",
-            "zipcode":"95834"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":605900,
@@ -117,12 +81,6 @@
         "zpid":79835356,
         "city":"Sun City",
         "state":"CA",
-        "address":{
-            "city":"Sun City",
-            "state":"CA",
-            "streetAddress":"29084 Springshores Dr",
-            "zipcode":"92585"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":575000,
@@ -136,12 +94,6 @@
         "zpid":15861609,
         "city":"Windsor",
         "state":"CA",
-        "address":{
-            "city":"Windsor",
-            "state":"CA",
-            "streetAddress":"125 Thrushwing Ave",
-            "zipcode":"95492"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":808000,
@@ -155,12 +107,6 @@
         "zpid":59023708,
         "city":"West Hartford",
         "state":"CT",
-        "address":{
-            "city":"West Hartford",
-            "state":"CT",
-            "streetAddress":"25 Braintree Dr",
-            "zipcode":"06117"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":574400,
@@ -174,12 +120,6 @@
         "zpid":76304337,
         "city":"Lewes",
         "state":"DE",
-        "address":{
-            "city":"Lewes",
-            "state":"DE",
-            "streetAddress":"34515 Maple Dr",
-            "zipcode":"19958"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":300000,
@@ -193,12 +133,6 @@
         "zpid":247773220,
         "city":"Immokalee",
         "state":"FL",
-        "address":{
-            "city":"Immokalee",
-            "state":"FL",
-            "streetAddress":"5170 Monza Ct",
-            "zipcode":"34142"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":428400,
@@ -212,12 +146,6 @@
         "zpid":45066645,
         "city":"Tampa",
         "state":"FL",
-        "address":{
-            "city":"Tampa",
-            "state":"FL",
-            "streetAddress":"3610 Ohio Ave",
-            "zipcode":"33611"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":525000,
@@ -231,12 +159,6 @@
         "zpid":184286838,
         "city":"Carver",
         "state":"MA",
-        "address":{
-            "city":"Carver",
-            "state":"MA",
-            "streetAddress":"13 Lillian Way",
-            "zipcode":"02330"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":655000,
@@ -250,12 +172,6 @@
         "zpid":36820327,
         "city":"Cambridge",
         "state":"MD",
-        "address":{
-            "city":"Cambridge",
-            "state":"MD",
-            "streetAddress":"112 Linthicum Dr",
-            "zipcode":"21613"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":294800,
@@ -269,12 +185,6 @@
         "zpid":66438427,
         "city":"Liberty",
         "state":"MO",
-        "address":{
-            "city":"Liberty",
-            "state":"MO",
-            "streetAddress":"504 Hardwick Cir",
-            "zipcode":"64068"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":0,
@@ -288,12 +198,6 @@
         "zpid":2060518905,
         "city":"Angier",
         "state":"NC",
-        "address":{
-            "city":"Angier",
-            "state":"NC",
-            "streetAddress":"345 Star Valley Dr",
-            "zipcode":"27501"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":385000,
@@ -307,12 +211,6 @@
         "zpid":74978099,
         "city":"Southern Pines",
         "state":"NC",
-        "address":{
-            "city":"Southern Pines",
-            "state":"NC",
-            "streetAddress":"595 Hill Road",
-            "zipcode":"28387"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":500000,
@@ -326,12 +224,6 @@
         "zpid":8961110,
         "city":"Bristol",
         "state":"PA",
-        "address":{
-            "city":"Bristol",
-            "state":"PA",
-            "streetAddress":"358 Dorrance St",
-            "zipcode":"19007"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":300000,
@@ -345,12 +237,6 @@
         "zpid":11060716,
         "city":"Piedmont",
         "state":"SC",
-        "address":{
-            "city":"Piedmont",
-            "state":"SC",
-            "streetAddress":"610 Piedmont Golf Course Rd",
-            "zipcode":"29673"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":383500,
@@ -364,12 +250,6 @@
         "zpid":123714397,
         "city":"Clarksville",
         "state":"TN",
-        "address":{
-            "city":"Clarksville",
-            "state":"TN",
-            "streetAddress":"3660 Fox Tail Dr",
-            "zipcode":"37040"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":319500,
@@ -383,12 +263,6 @@
         "zpid":125461511,
         "city":"Houston",
         "state":"TX",
-        "address":{
-            "city":"Houston",
-            "state":"TX",
-            "streetAddress":"333 W 26th St",
-            "zipcode":"77008"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":459500,
@@ -402,12 +276,6 @@
         "zpid":114646737,
         "city":"Port Angeles",
         "state":"WA",
-        "address":{
-            "city":"Port Angeles",
-            "state":"WA",
-            "streetAddress":"293 Vert Road",
-            "zipcode":"98363"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":605000,
@@ -421,12 +289,6 @@
         "zpid":48761114,
         "city":"Seattle",
         "state":"WA",
-        "address":{
-            "city":"Seattle",
-            "state":"WA",
-            "streetAddress":"818 SW 134th Street",
-            "zipcode":"98146"
-        },
         "bedrooms":3,
         "bathrooms":3.0,
         "price":850000,
